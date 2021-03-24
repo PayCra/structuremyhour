@@ -1,0 +1,11 @@
+.AlarmColor {
+    display: flex;
+    align-items: center;
+    width: 40vw;
+    justify-content: space-around;
+}
+
+.Minutes {
+    font-weight: 500;
+    color: darkblue;
+}
