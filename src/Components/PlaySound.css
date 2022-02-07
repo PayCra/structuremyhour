@@ -1,9 +1,0 @@
-.Player {
-    display: flex;
-    align-items: center;
-}
-
-.PlayButton {
-    border: none;
-    background: white;
-}
