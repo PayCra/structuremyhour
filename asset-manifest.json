@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/structuremyhour/static/css/main.830053ef.chunk.css",
+    "main.js": "/structuremyhour/static/js/main.47da7eae.chunk.js",
+    "main.js.map": "/structuremyhour/static/js/main.47da7eae.chunk.js.map",
+    "runtime-main.js": "/structuremyhour/static/js/runtime-main.d4d2c6ec.js",
+    "runtime-main.js.map": "/structuremyhour/static/js/runtime-main.d4d2c6ec.js.map",
+    "static/js/2.cdfb8eb8.chunk.js": "/structuremyhour/static/js/2.cdfb8eb8.chunk.js",
+    "static/js/2.cdfb8eb8.chunk.js.map": "/structuremyhour/static/js/2.cdfb8eb8.chunk.js.map",
+    "static/js/3.3433f661.chunk.js": "/structuremyhour/static/js/3.3433f661.chunk.js",
+    "static/js/3.3433f661.chunk.js.map": "/structuremyhour/static/js/3.3433f661.chunk.js.map",
+    "index.html": "/structuremyhour/index.html",
+    "static/css/main.830053ef.chunk.css.map": "/structuremyhour/static/css/main.830053ef.chunk.css.map",
+    "static/js/2.cdfb8eb8.chunk.js.LICENSE.txt": "/structuremyhour/static/js/2.cdfb8eb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4d2c6ec.js",
+    "static/js/2.cdfb8eb8.chunk.js",
+    "static/css/main.830053ef.chunk.css",
+    "static/js/main.47da7eae.chunk.js"
+  ]
+}
