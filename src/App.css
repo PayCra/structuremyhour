@@ -8,7 +8,24 @@
 
 .AppProper {
     height: 90vh;
-    margin-top: 10vh;
+    margin-top: 3vh;
+    display: flex;
+}
+
+.Text {
+    margin-bottom: 3vh;
+}
+
+.TillNext {
+    color: hotpink;
+    font-weight: 600;
+}
+
+.Side {
+    min-width: 200px;
+    margin: 50px;
+    display: flex;
+    align-items: end;
 }
 
 .RedButtonVisible {
@@ -24,7 +41,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 10vh;
+    height: 1vh;
     width: 100vw;
     background: white;
 }
@@ -35,9 +52,4 @@
 
 .StartButtonInvisible {
     opacity: 0;
-}
-
-.SoundButton {
-    width: 50px;
-    height: 50px;
 }
